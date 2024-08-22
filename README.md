@@ -1,2 +1,2 @@
 # Equity-News-Research-Tool
-An equity news research tool project involves developing a platform that gathers, analyzes, and presents financial news related to stocks and equity markets. 
+An equity news research tool project involves developing a platform that gathers, analyzes, and presents financial news related to stocks and equity markets. The tool typically tracks news from various sources, evaluates the sentiment, relevance, and impact of the news on specific stocks or the market in general, and provides insights or alerts to users. It might also include features like historical data analysis, sentiment trends, and predictive analytics to help investors make informed decisions.
